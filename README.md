@@ -14,7 +14,7 @@ Lo que esperamos es que generes una carpeta de una plantilla personalizada o de 
 
 Se permite el uso de librerias JQuery o cualquiera parecida, no olvides mencionarlo en el readme de tu repositorio.
 
-A continuación se te muestra una interface web propuesta y la forma en que se espera visualizar el archivo pdf.
+A continuación se te muestra una interface web propuesta y la forma en que se espera visualizar el archivo pdf una vez descargado.
 
 &nbsp;
 
